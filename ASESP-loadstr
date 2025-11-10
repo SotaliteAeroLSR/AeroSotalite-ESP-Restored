@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SotaliteAeroLSR/AeroSotalite-ESP-Restored/refs/heads/main/ASESP-2.5-ORIGINAL.txt"))()
